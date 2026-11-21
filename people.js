@@ -1,4 +1,4 @@
-/* 봄은 죽었다 · 인물 데이터 (index.html 공용) */
+/* 우리의 봄은 죽었다 · 인물 데이터 (index.html 공용) */
 window.PEOPLE = {
   bom: {
     name: "한 봄", en: "HAN BOM", age: "24", img: "01_bom", cg: "hero_bom",
